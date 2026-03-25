@@ -83,7 +83,6 @@ else:
 📚 Learning Outcome
 
 After understanding this program, you will learn:
-
 Different ways to check even/odd numbers
 How division and multiplication can be used logically
 How conditional statements work in Python
