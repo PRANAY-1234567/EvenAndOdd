@@ -48,6 +48,7 @@ print("Even Number")
 or
 
 print("Odd Number")
+
 🔄 Example Execution
 Input
 Enter the number: 6
